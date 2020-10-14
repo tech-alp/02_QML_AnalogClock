@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="Ionicon.qml">icon/Ionicon.qml</file>
+        <file alias="pause.svg">icon/pause.svg</file>
+        <file alias="caret-forward-outline.svg">icon/caret-forward-outline.svg</file>
+    </qresource>
+</RCC>
