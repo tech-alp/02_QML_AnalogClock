@@ -36,21 +36,20 @@ Window {
         initialItem: Qt.resolvedUrl("qrc:/components/ShowDataText.qml")
         clip: true
     }
-
-
-
-    /*Text {
-        text: Style.boardText
-        anchors {
-            top: parent.top
-            bottom: parent.bottom
-            right: parent.right
-            left: settingsBar.right
-        }
-        verticalAlignment: Text.AlignVCenter
-        horizontalAlignment: Text.AlignHCenter
-        font.pixelSize: 24
-        font.bold: true
-    }*/
-
 }
+
+
+
+/*Text {
+    text: Style.boardText
+    anchors {
+        top: parent.top
+        bottom: parent.bottom
+        right: parent.right
+        left: settingsBar.right
+    }
+    verticalAlignment: Text.AlignVCenter
+    horizontalAlignment: Text.AlignHCenter
+    font.pixelSize: 24
+    font.bold: true
+}*/
