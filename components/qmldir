@@ -1,0 +1,5 @@
+module components
+SettingsBar 1.0 SettingsBar.qml
+NavigationButton 1.0 NavigationButton.qml
+ShowDataText 1.0 ShowDataText.qml
+AnalogClock 1.0 AnalogClock.qml
