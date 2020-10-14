@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="qmldir">components/qmldir</file>
+        <file alias="NavigationButton.qml">components/NavigationButton.qml</file>
+        <file alias="SettingsBar.qml">components/SettingsBar.qml</file>
+        <file alias="ShowDataText.qml">components/ShowDataText.qml</file>
+        <file alias="AnalogClock.qml">components/AnalogClock.qml</file>
+    </qresource>
+    <qresource prefix="/svg">
+        <file alias="round-play-button.png">components/round-play-button.png</file>
+        <file alias="pause.svg">icon/pause.svg</file>
+        <file alias="watch.svg">components/watch.svg</file>
+        <file alias="reset-icon.svg">components/reset-icon.svg</file>
+        <file alias="analog-clock.svg">components/analog-clock.svg</file>
+    </qresource>
+</RCC>
